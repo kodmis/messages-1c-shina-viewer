@@ -597,10 +597,10 @@
             <choiceList>
               <presentation>
                 <key>ru</key>
-                <value>objectID</value>
+                <value>ObjectId</value>
               </presentation>
               <value xsi:type="core:StringValue">
-                <value>objectID</value>
+                <value>ObjectId</value>
               </value>
             </choiceList>
             <choiceList>
@@ -1027,7 +1027,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СообщенияШины</types>
+      <types>ExternalDataProcessor.СообщенияШины</types>
     </valueType>
     <view>
       <common>true</common>
